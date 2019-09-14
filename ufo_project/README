@@ -1,5 +1,5 @@
 This project offers a sample database of UFO sightings that can be searched by date.
 
-Technologies: HTML, CSS, JavaScript, D3.
+Technologies: HTML, CSS, JavaScript, D3, and Boostrap.
 
 To-do: Future versions will add more search options, such as being able to search by city, state, or shape of the object reported.
