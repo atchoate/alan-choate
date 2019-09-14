@@ -1,0 +1,3 @@
+This project gathered Texas voting data from 2000 to 2018 to examine early voting in a way that state statistics do not. I wanted to know how many voters in a given election year voted early and how many waited until Election Day. The results revealed an interesting trend.
+
+Technologies used: HTML, CSS, and Tableau. The next version will incorporate JavaScript and D3.js to make the pages more dynamic and visual.
